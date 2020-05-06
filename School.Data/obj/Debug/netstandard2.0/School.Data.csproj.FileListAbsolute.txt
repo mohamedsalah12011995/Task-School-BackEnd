@@ -1,0 +1,9 @@
+E:\Task School\Task_School\School.Data\bin\Debug\netstandard2.0\School_Data.deps.json
+E:\Task School\Task_School\School.Data\bin\Debug\netstandard2.0\School_Data.dll
+E:\Task School\Task_School\School.Data\bin\Debug\netstandard2.0\School_Data.pdb
+E:\Task School\Task_School\School.Data\obj\Debug\netstandard2.0\School.Data.csproj.CoreCompileInputs.cache
+E:\Task School\Task_School\School.Data\obj\Debug\netstandard2.0\School.Data.AssemblyInfoInputs.cache
+E:\Task School\Task_School\School.Data\obj\Debug\netstandard2.0\School.Data.AssemblyInfo.cs
+E:\Task School\Task_School\School.Data\obj\Debug\netstandard2.0\School_Data.dll
+E:\Task School\Task_School\School.Data\obj\Debug\netstandard2.0\School_Data.pdb
+E:\Task School\Task_School\School.Data\obj\Debug\netstandard2.0\School.Data.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\Task School\Task_School\School.Service\bin\Debug\netstandard2.0\School.Service.deps.json
+E:\Task School\Task_School\School.Service\bin\Debug\netstandard2.0\School.Service.dll
+E:\Task School\Task_School\School.Service\bin\Debug\netstandard2.0\School.Service.pdb
+E:\Task School\Task_School\School.Service\bin\Debug\netstandard2.0\School.Domain.dll
+E:\Task School\Task_School\School.Service\bin\Debug\netstandard2.0\School_Data.dll
+E:\Task School\Task_School\School.Service\bin\Debug\netstandard2.0\School_Data.pdb
+E:\Task School\Task_School\School.Service\bin\Debug\netstandard2.0\School.Domain.pdb
+E:\Task School\Task_School\School.Service\obj\Debug\netstandard2.0\School.Service.csprojAssemblyReference.cache
+E:\Task School\Task_School\School.Service\obj\Debug\netstandard2.0\School.Service.csproj.CoreCompileInputs.cache
+E:\Task School\Task_School\School.Service\obj\Debug\netstandard2.0\School.Service.AssemblyInfoInputs.cache
+E:\Task School\Task_School\School.Service\obj\Debug\netstandard2.0\School.Service.AssemblyInfo.cs
+E:\Task School\Task_School\School.Service\obj\Debug\netstandard2.0\School.Service.csproj.CopyComplete
+E:\Task School\Task_School\School.Service\obj\Debug\netstandard2.0\School.Service.dll
+E:\Task School\Task_School\School.Service\obj\Debug\netstandard2.0\School.Service.pdb
